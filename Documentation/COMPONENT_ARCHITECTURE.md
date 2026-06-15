@@ -489,5 +489,5 @@ docs/
 ## **Deployment**
 
 * GitHub Repository  
-* Vercel Live URL
+* Netlify Live URL: https://nayepankh-foundation-org.netlify.app/
 

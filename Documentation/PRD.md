@@ -133,7 +133,7 @@ Interested in:
 ### **Deployment**
 
 * GitHub  
-* Vercel
+* Netlify
 
 ---
 
@@ -349,7 +349,7 @@ Become Volunteer / Contact Foundation
 ### **Project Metrics**
 
 * Successful GitHub deployment  
-* Successful Vercel deployment  
+* Successful Netlify deployment  
 * Clean component architecture  
 * Mobile-friendly experience
 
@@ -372,7 +372,7 @@ Become Volunteer / Contact Foundation
 ### **Hosting**
 
 * GitHub Repository  
-* Vercel Deployment
+* Netlify Deployment
 
 ---
 
@@ -394,5 +394,5 @@ Become Volunteer / Contact Foundation
 ### **Deployment**
 
 * GitHub Repository Link  
-* Live Vercel URL
+* Live Netlify URL: https://nayepankh-foundation-org.netlify.app/
 

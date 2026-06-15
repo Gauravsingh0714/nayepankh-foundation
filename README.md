@@ -1,5 +1,7 @@
 # NayePankh Foundation Website Redesign
 
+**Live Demo:** [https://nayepankh-foundation-org.netlify.app/](https://nayepankh-foundation-org.netlify.app/)
+
 This repository contains the production-ready frontend redesign for the **NayePankh Foundation** website. 
 
 NayePankh Foundation is a registered non-profit organization (Societies Registration Act, 1860) led entirely by the passionate youth of our country. They work continuously to solve daily challenges faced by people in India, making this earth a better place.
@@ -51,7 +53,7 @@ To build the application for production:
 npm run build
 ```
 
-This will compile the optimized application assets into the `/dist` directory, ready to be deployed to Vercel, Netlify, or any static hosting service.
+This will compile the optimized application assets into the `/dist` directory, ready to be deployed to Netlify or any static hosting service.
 
 ## Lighthouse Scores
 - Performance: **100**

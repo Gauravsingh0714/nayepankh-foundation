@@ -18,7 +18,7 @@ The website will focus on:
 * Reusability  
 * Maintainability
 
-The application will be frontend-only and deployed on GitHub and Vercel.
+The application will be frontend-only and deployed on GitHub and Netlify.
 
 ---
 
@@ -570,7 +570,7 @@ GitHub Push
 
        ↓
 
-Vercel Deployment
+Netlify Deployment
 
        ↓
 
@@ -580,7 +580,7 @@ Live Website
 
 ## **Hosting Platform**
 
-Vercel
+Netlify
 
 Benefits:
 
@@ -631,6 +631,6 @@ Benefits:
   ### **Deployment**
 
 * GitHub Repository  
-* Vercel Live URL  
+* Netlify Live URL: https://nayepankh-foundation-org.netlify.app/  
 * 
 
